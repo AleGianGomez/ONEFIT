@@ -629,7 +629,7 @@ footer .info a{
 /* *********** */
 /* RESPONSIVE */
 /* *********** */
-@media (min-wdth: 767px) and (max-width: 900px) {
+@media only screen and (max-width: 900px) {
     header nav{
         position: initial;
         display: none;
