@@ -713,7 +713,7 @@ footer .info a{
        width: 100%;
     }
      .servicios .fila .col .contenedor-titulo .info h2 {
-     font-size: 1.5rem;
+     font-size: 2rem;
      }
     .comodidades .fila{
         display: block;
@@ -740,7 +740,7 @@ footer .info a{
         margin: auto;
     }
      .equipo .contenedor-titulo .info h2 {
-     font-size: 1rem;
+     font-size: 2rem;
      }
     .contacto .fila{
         display: block;
@@ -756,7 +756,7 @@ footer .info a{
         margin-bottom: 20px;
     }
     .contacto .contenedor-titulo .info h2 {
-    font-size: 1.75rem;
+    font-size: 2.5rem;
     }
     footer .info{
         display: block;
